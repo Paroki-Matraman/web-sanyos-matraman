@@ -1,2 +1,3 @@
-# web-sanyos-matraman
-Website Frontend Gereja Santo Yoseph Matraman
+# Web_Gereja
+
+Ini merupakan repository website gereja santo yoseph matraman
